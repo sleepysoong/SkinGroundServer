@@ -4,7 +4,7 @@ import os
 import urllib.parse
 import logging
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 app = Flask(__name__)
 CORS(app)
